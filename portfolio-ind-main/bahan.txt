@@ -1,0 +1,5 @@
+Warna website profolio aku:#9EA2A4
+Keahlian ku: Python, C++, Database, Web development, Game development, C#, Javascript, Java
+Deskrisi tentang diriku:
+I'm self taught developer which have a exellant skill in Python, C++, C#, Java, Javascript, front end and back-end with flask
+i'm on learning godot by using python, learning to make a model with blender, etc. I also will making a Game
